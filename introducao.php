@@ -3,6 +3,7 @@ function exibeMensagem($mensagem)
 {
     echo $mensagem . PHP_EOL;
 };
+
 // hello world
 // echo "olá mundo!";
 
